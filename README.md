@@ -12,11 +12,9 @@
   <a href="mailto:ozturkonder@proton.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<!--
   <a href="https://www.onderozturk.me" target="_blank">
-    <img src="https://img.shields.io/badge/Website-D16436?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-D17436?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
--->
 </p>
 
 
