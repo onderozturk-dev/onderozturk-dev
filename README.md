@@ -24,8 +24,6 @@
 - Performanslı backend servisleri, modern web/mobil teknolojileri ve temiz kod üzerine çalışıyorum.  
 - Daha önce farklı diller ve teknolojilerle de projeler geliştirdim.
 
----
-
 ## Kullandığım Araçlar
 
 <p align="left">
